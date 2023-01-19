@@ -2,4 +2,4 @@
 
 [DEMO LINK](https://sv-dubov.github.io/Harder-DJanes/)
 
-# <img src="https://github.com/images/harder_djanes.jpg" width="500" >
+# <img src="https://github.com/blob/main/images/harder_djanes.jpg" width="500" >
